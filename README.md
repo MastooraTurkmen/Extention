@@ -1,4 +1,4 @@
-# coc8640b4ab7ea074c56f6bdc
+# Chrome Email Save Extension
 
 Quick start:
 
@@ -8,15 +8,20 @@ $ npm start
 ````
 
 Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## About App
+https://extention.netlify.app/
+This is a simple and cute Chrome extension that you can save your favorite emails on it, for later use. 
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+![Screenshot-chrome-extension](https://github.com/MastooraTurkmen/Extention/assets/132576850/4fda9a44-d89b-4a9f-a1ca-f970db9554af)
 
-Happy Coding!
-# Extention
+
+### SAVE INPUT
+With this button, you can save your email inputs from everywhere in the Chrome browser.
+
+### SAVE TUB
+With this button, you can save your Chrome Tubs.
+
+### DELETE ALL
+With this button, you can delete all your saved emails and tubs.
+

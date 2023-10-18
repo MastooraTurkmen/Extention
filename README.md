@@ -20,10 +20,10 @@ This is a simple and cute Chrome extension that you can save your favorite email
 With this button, you can save your email inputs from everywhere in the Chrome browser.
 
 
-### SAVE TUB
-With this button, you can save your Chrome Tubs.
+### SAVE TaB
+With this button, you can save your Chrome Tabs.
 
 
 ### DELETE ALL
-With this button, you can delete all your saved emails and tubs.
+With this button, you can delete all your saved emails and tabs.
 
